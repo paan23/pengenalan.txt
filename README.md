@@ -1,2 +1,2 @@
 # pengenalan.txt
-Bina fail pengeenalan 
+Bina fail pengenalan 
